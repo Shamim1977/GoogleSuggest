@@ -1,0 +1,21 @@
+{
+    "name": "gsuggest",
+    "productName": "Google Suggest",
+    "version": "1.0.0",
+    "description": "Scrape Google Suggest in NodeJS",
+    "homepage": "https://sparrowtech.org",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "repository": "https://github.com/Shamim1977/GoogleSuggest",
+    "keywords": [
+        "google-suggest",
+        "https://sparrowtech.org/"
+    ],
+    "author": "Sam",
+    "copyright": "© 2023, Sparrowtech",
+    "license": "MIT",
+    "dependencies": {
+        "axios": "^1.6.0"
+    }
+}
