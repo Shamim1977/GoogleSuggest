@@ -22,6 +22,14 @@ axios
 npm i axios
 ```
 
+## Run
+
+```
+node app.js
+
+npm start
+```
+
 
 
 ## Developer
