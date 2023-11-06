@@ -3,6 +3,7 @@ var fs = require('fs');
 
 let link = 'https://www.google.com/complete/search?&hl=LANG&gl=LOC&q=QUERY&client=chrome';
 
+
 function GetGoogleSuggests(lang, loc, query){
 	if (!query) {
 		console.log('Query string is empty!');
@@ -27,6 +28,7 @@ function GetGoogleSuggests(lang, loc, query){
 }
 
 GetGoogleSuggests('en', 'us', 'youtube');
+
 
 /*
 
